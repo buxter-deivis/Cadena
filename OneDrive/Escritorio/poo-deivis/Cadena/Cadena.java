@@ -3,11 +3,11 @@ public class Cadena {
     public static void main (String [] args){
     Scanner scanner = new Scanner (System.in);
     System.out.println("Ingresa tu nombre(s) ");
-    String nombre = Scanner.nextline();
+    String nombre = Scanner.nextLine();
     System.out.println("Ingresa tu apellido paterno" );
-    String apellidopat = Scanner.nextline();
+    String apellidopat = Scanner.nextLine();
     System.out.println("Ingresa tu apellido materno " );
-    String apellidomat = Scanner.nextline();
+    String apellidomat = Scanner.nextLine();
     System.out.println("Tu nombre completo es = " +nombre+"" +apellidopat+" "+apellidomat );
 
     }
