@@ -8,7 +8,7 @@ public class Cadena {
     String apellidopat = Scanner.nextline();
     System.out.println("Ingresa tu apellido materno " );
     String apellidomat = Scanner.nextline();
-    System.out.println("Tu nombre completoo es = " + nombre + apellidopat + apellidomat );
+    System.out.println("Tu nombre completoo es = "  "+nombre+"  "+apellidopat+" "+apellidomat" );
 
     }
 }
